@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{4DF8B450-B162-7249-0889-B994CFB6166A}</ProjectGuid>
+    <ProjectGuid>{024703F6-1399-59F0-1C67-DEA72B14284A}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -58,8 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets/Scripts/SoundManager.cs" />
     <Compile Include="Assets/Scripts/PlaySoundOnStart.cs" />
-    <Compile Include="Assets/Scripts/VolumeSlider.cs" />
     <Compile Include="Assets/Scripts/ToggleAudio.cs" />
+    <Compile Include="Assets/Scripts/VolumeSlider.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
